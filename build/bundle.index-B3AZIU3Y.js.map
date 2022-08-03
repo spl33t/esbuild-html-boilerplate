@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.js"],
+  "sourcesContent": ["import './index.css';\n\nconst a = 'a';\nconst b = 'b2';\n\nconsole.log(\"hello wrold2\")\nconsole.log(b)\n\n"],
+  "mappings": ";AAGA,IAAM,IAAI;AAEV,QAAQ,IAAI,cAAc;AAC1B,QAAQ,IAAI,CAAC;",
+  "names": []
+}

@@ -1,7 +1,3 @@
-import "./views/blog.html"
-import "./views/services/auto.html"
-import "./views/about.html"
-import "./views/index.html"
 import './index.css';
 
 const a = 'a';
